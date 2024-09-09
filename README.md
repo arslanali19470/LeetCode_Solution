@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
