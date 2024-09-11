@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -48,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
