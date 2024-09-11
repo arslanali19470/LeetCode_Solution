@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
@@ -58,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
