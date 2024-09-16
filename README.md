@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0780-max-chunks-to-make-sorted) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
