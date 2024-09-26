@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0780-max-chunks-to-make-sorted) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
