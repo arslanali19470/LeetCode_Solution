@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
