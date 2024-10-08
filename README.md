@@ -97,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
