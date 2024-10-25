@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0780-max-chunks-to-make-sorted) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1019-squares-of-a-sorted-array) |
