@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0780-max-chunks-to-make-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/arslanali19470/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -126,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/arslanali19470/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/arslanali19470/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
