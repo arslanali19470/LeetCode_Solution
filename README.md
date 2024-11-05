@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -127,9 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arslanali19470/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arslanali19470/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
