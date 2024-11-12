@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0152-maximum-product-subarray) |
@@ -136,9 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arslanali19470/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
