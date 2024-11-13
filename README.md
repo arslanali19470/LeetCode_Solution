@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
