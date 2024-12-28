@@ -14,10 +14,10 @@ public:
                 
             }
             if(freq>n/2){
-                return nums[i];
+                ans= nums[i];
             }
         }
-        return nums[0];
+        return ans;
        
         
     }
