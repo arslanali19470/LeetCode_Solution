@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arslanali19470/LeetCode_Solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
