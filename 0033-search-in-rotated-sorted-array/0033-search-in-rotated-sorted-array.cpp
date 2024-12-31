@@ -1,45 +1,35 @@
 class Solution {
-    int pivotPoint(vector<int>& nums){
-        int start=0,end=nums.size()-1;
-        int midPoint=start+(end-start)/2;
-        while(start<end){
-            if(nums[midPoint]>=nums[0]){
-                start=midPoint+1;
-            }else{
-                end=midPoint;
-            }
-            midPoint=start+(end-start)/2;
-        }
-        return start;
-    }
-    int getBinarySearch(vector<int>& nums,int s,int e,int target ){
-        int start=s,end=e;
-        int midPoint=start+(end-start)/2;
-        while(start<=end){
-            if (target==nums[midPoint]){
-                return midPoint;
-            }else if(target>nums[midPoint]){
-                start=midPoint+1;
-            }else{
-                end=midPoint-1;
-            }   
-            midPoint = start + (end - start) / 2;
-        }
-        return -1;
-       
-    }
 public:
     int search(vector<int>& nums, int target) {
-
-        int Pivot=pivotPoint(nums);
-        //     if (nums[Pivot] == target) {
-        //     return Pivot;
-        //  }
-        if (nums[Pivot]<=target && target<=nums[nums.size()-1]){
-            return getBinarySearch(nums,Pivot,nums.size()-1,target);
-        }else{
-            return getBinarySearch(nums,0,Pivot-1,target);
-        }
         
+        int start=0, end=nums.size()-1;
+        
+
+        while(start<=end){
+            int MidPoint=start+(end-start)/2;
+            if(nums[MidPoint]==target){
+                return MidPoint;
+            }
+
+            if(nums[start]<=nums[MidPoint]){
+                if(target>=nums[start] && target<=nums[MidPoint]){
+                    end=MidPoint-1;
+                }else{
+                    start=MidPoint+1;
+                }
+
+            }else{
+                 if(target>=nums[MidPoint] && target<=nums[end]){
+                    // end=MidPoint-1;
+                     start=MidPoint+1;
+                }else{
+                    // start=MidPoint+1;
+                    end=MidPoint-1;
+                }
+
+            }
+           
+        }
+        return -1;
     }
 };
