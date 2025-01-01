@@ -7,7 +7,7 @@ class Solution {
         {
             if(arr[midPoint]<arr[midPoint+1]){
                 start=midPoint+1;
-            }else if(arr[midPoint+1]<arr[midPoint]>arr[midPoint+1]){
+            }else if(arr[midPoint-1]<arr[midPoint]>arr[midPoint+1]){
                 return midPoint;
             }else{
                 end=midPoint-1;
